@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+    <elements>
+        <element type="text" scope="locale">
+            <name>gift_item_number</name>
+            <label lang="en">Gift item number</label>
+            <label lang="bg">Номер на подаръчен продукт</label>
+        </element>
+        <element type="text" scope="locale">
+            <name>gift_min_price_bgn</name>
+            <label lang="en">Minimum price for gift in BGN</label>
+            <label lang="bg">Минимална сума за подарък в лв.</label>
+        </element>
+        <element type="text" scope="locale">
+            <name>gift_min_price_eur</name>
+            <label lang="en">Minimum price for gift in EUR</label>
+            <label lang="bg">Минимална сума за подарък в евро</label>
+        </element>
+        <element type="text" scope="locale">
+            <name>gift_item_number_discount_bgn</name>
+            <label lang="en">Item number of the discounted product BGN</label>
+            <label lang="bg">Код на промоционалният продукт в лв</label>
+        </element>
+        <element type="text" scope="locale">
+            <name>gift_item_number_discount_eur</name>
+            <label lang="en">Item number of the discounted product EUR</label>
+            <label lang="bg">Код на промоционалният продукт в евро</label>
+        </element>
+
+    </elements>
+</config>
